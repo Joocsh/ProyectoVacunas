@@ -1,0 +1,4 @@
+Notas:
+1. Cambiar el directorio del fichero.
+2. Para lograr eliminar datos de la tabla, se debe colocar su nombre en el TextBox para luego eliminarlo.
+3. Nuestra Base de Datos se llama BDE
